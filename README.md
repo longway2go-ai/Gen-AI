@@ -1,1 +1,1 @@
-# gen-ai-tutorial
+# gen-ai
